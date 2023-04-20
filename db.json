@@ -9,43 +9,8 @@
                 "width": 250
             },
             {
-                "id": "function",
-                "hidden": true,
-                "region": "locked",
-                "locked": true,
-                "width": 85
-            },
-            {
-                "id": "owner",
-                "hidden": false,
-                "region": "locked",
-                "locked": true,
-                "width": 85
-            },
-            {
-                "id": "status",
-                "hidden": false,
-                "region": "locked",
-                "locked": true,
-                "width": 100
-            },
-            {
                 "id": "startdate",
-                "hidden": false,
-                "region": "locked",
-                "locked": true,
-                "width": 80
-            },
-            {
-                "id": "enddate",
-                "hidden": false,
-                "region": "locked",
-                "locked": true,
-                "width": 80
-            },
-            {
-                "id": "deadlinedate",
-                "hidden": false,
+                "hidden": true,
                 "region": "locked",
                 "locked": true,
                 "width": 80
